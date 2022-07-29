@@ -24,9 +24,9 @@ resume_contact_email:           "tw_kim1216@naver.com"
 #display_header_contact_info:    "false"
 
 resume_header_intro: "<p>11년이라는 기간 동안 삼성전자/디스플레이 시스템 개발/운영하며 전기/전자 업종 및 제조분야에 대한 지식과 경험을 많이 쌓았습니다. 
-다양한 플랫폼(BI-MATRIX/GAUCE/Springframwork/XPLATFORM), DB(Oracle/Postgresql), Middleware(WebLogic, JBoss)를 경험하여 변화에 잘 적응할 수 있습니다. 
+다양한 플랫폼(BI-MATRIX/GAUCE/Springframwork/XPLATFORM), DB(Oracle/Postgresql), Middleware(WebLogic/JBoss)를 경험하여 변화에 잘 적응할 수 있습니다. 
 Was LogRotation & LogCompress Shell 프로그램 개발 및 적용을 통해 장애를 미연에 방지한 경험도 있습니다.
-매 분기 또는 매년 진행하였던 보안취약점 점검을 통해 자체적으로 서비스의 보안취약점 관리 및 조치도 가능합니다.(Fiddler, BurpSuite)</p>"
+매 분기 또는 매년 진행하였던 보안취약점 점검을 통해 자체적으로 서비스의 보안취약점 관리 및 조치도 가능합니다.(Fiddler/BurpSuite)</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
