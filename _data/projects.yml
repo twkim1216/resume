@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# 삼성전자
+- project: LCD사업부 재료비 시스템 구축
+  role: PE / QA
+  duration: 2011.10.03 &mdash; 2011.12.30
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 처음으로 투입된 프로젝트로 사소한 기능부터 결재 기능까지 꼼꼼히 테스트하여 오류 없이 운영 이관하였습니다. 그리고 철저한 인수인계를 통해 개발인력 철수 후에도 이상 없이 운영할 수 있었습니다.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# 삼성디스플레이
+- project: 재료비 시스템 통합
+  role: PE / QA
+  duration: 2015.05.04 &mdash; 2015.12.25
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 프로젝트에서 저의 주된 Role은 통합프로세스 설계였습니다. 회사별로(SMD&삼성전자) 상이하였던 업무 프로세스를 통합 설계하여 LCD/OLED 사업부 모두 만족할 수 있는 업무 프로세스를 셋업할 수 있었습니다. 프로젝트를 통해 적절한 업무 분배와 꼼꼼한 취합이 중요하다는 것과 방법을 습득 할 수 있었습니다.
+  
+# 삼성디스플레이
+- project: 재료비 시스템 고도화
+  role: PE / PA / QA
+  duration: 2017.07.03 &mdash; 2017.11.30
+  # url: "#"
+  description: PA 역할을 처음으로 수행하여 오픈 납기에 맞춰 오류 없이 안정적으로 운영 이관할 수 있었던 프로젝트였습니다. 결재/메일링 추가 및 결재 프로세스 개선으로 회계 정확도를 높였고 사용자 편의성을 많이 높일 수 있었습니다.
+
+# 삼성디스플레이
+- project: 구매업무 운영 환경 전환
+  role: PE / PA / QA
+  duration: 2018.04.02 &mdash; 2018.10.31
+  # url: "#"
+  description: 운영 환경 전환으로(ORACLE → POSTGRESQL, WEBLOGIC → JBOSS) 원가절감을 할 수 있었습니다. 시스템 대부분의 소스가 조금씩 변경되는 작업으로 꼼꼼하고 충분한 테스트를 통해 이상 없이 운영 이관할 수 있었습니다. DB/Middleware 전환을 통해 표준설계/개발에 대해 한 번 더 공부할 수 있어서 많은 도움이 되었습니다.
+  
+# 삼성디스플레이
+- project: G-SCM(SP) FAB Forecast 셋업
+  role: PE / PA / QA
+  duration: 2021.04.05 &mdash; 2021.10.29
+  # url: "#"
+  description: 고객 투자가 이루어진 규모가 큰 프로젝트는 아니었지만, 프로세스 설계/개발/테스트/운영 적용까지 단독으로 진행하여 고객만족도를 높일 수 있었습니다. 요구사항을 파악하고 문서화하여 고객의 컨펌 받는 것을 시작으로, 일정을 짜고 DB/UI 설계/개발을 진행하였습니다. 예정에 없던 고객 요구사항 추가(ERP PO 전송)가 있었지만, 고객과 협의하여 2주 정도 일정을 더 할당받아 개발/운영 이관할 수 있었습니다.
