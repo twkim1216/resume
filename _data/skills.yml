@@ -1,20 +1,24 @@
 # Skills
 # Language
-- skill: Java / JSP / VB / Python
-- description: N/A
+- skill: Language
+- description: Java / JSP / VB
   
 # Middleware
-- skill: WebLogic / JBoss
-- description: N/A
+- skill: Middleware
+- description: WebLogic / JBoss
 
 # DB
-- skill: Oracle / PostgreSQL
-- description: N/A
+- skill: DB
+- description: Oracle / PostgreSQL
 
 # OS
-- skill: Linux
-- description: N/A
+- skill: OS
+- description: Linux
 
 # Tool
-- skill: Eclipse / UXStudio / Toad / pgAdmin / Fiddler / Postman / Control-M / Intellij
-- description: N/A
+- skill: Tool
+- description: Eclipse / UXStudio / Toad / pgAdmin / Fiddler / Postman / Control-M / Intellij
+
+# Solution
+- skill: Solution
+- description: xPlatform / Springframework / Gauce / BI-MATRIX
