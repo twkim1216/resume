@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# CMS(Cost Management System)
+- company: CMS(Cost Management System)
+  position: 시스템 개발/운영
+  duration: 2011-10 &mdash; Present
+  summary: 생산모델의 재료비 및 원가절감 효과를 산출하는 시스템입니다. xPlatform 솔루션으로 개발되었고, DB는 PostgreSQL, Middleware는 JBoss로 구성되어 있습니다. 결산 시스템 특성상 업무프로세스가 복잡하여 현업사용에 불편함이 있는 것 같아 결산 프로세스를 정리하여 배포하였습니다. 이를 통해 결산 관련 VOC가 감소하였고, 사용자 편의성이 높아졌습니다. 도메인영역의 로그로테이션, 로그압축 shell 프로그램을 개발 및 적용하여 장애예방도 진행하였습니다. 가장 최근에는 Data I/F를 REST API 방식으로 전환하는 작업을 진행하고 있습니다.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# CrePas System
+- company: CrePas System
+  position: 시스템 개발/운영
+  duration: 2018-03 &mdash; 2020-12
+  summary: 사내/사외로 이루어져 있으며, 업체가 IDEA를 제안하고 담당 임직원이 IDEA 평가 및 채택하여 과제로 진행하게되는 시스템입니다. 기존 담당자들 처럼 동일한 VOC를 처리하는 것보다 해당 건들을 개선하거나, 시스템화하는 것이 좀 더 효율적이라 생각하여 주도적으로 개발을 진행했습니다. 그로인해 고객VOC가 감소하였고, 고객만족도와 사용 편의성은 높아졌습니다. 사외시스템에 SimpleCaptcha라는 라이브러리를 이용하여 보안취약점을 개선하기도 하였습니다.
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# G-SCM(SP)
+- company: G-SCM(SP)
+  position: 시스템 개발/운영
+  duration: 2021-01 &mdash; 2022-04
+  summary: 생산계획을 이용하여 자재수급관리 및 자재 발주를 진행하는 시스템입니다. 기존에 Module 자재만 수급&발주을 진행할 수있었는 데, FAB 자재도 수급관리 및 발주가 가능하도록 구축하였습니다.
